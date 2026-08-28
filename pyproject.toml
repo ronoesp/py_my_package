@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ono_common_package"           # pip install や import で使う名前
+version = "0.1.0"
+description = "使いまわせる自作クラスの寄せ集め"
+authors = [
+  { name = "ryouya ono" }
+]
+dependencies = []             # 依存ライブラリがあれば指定（例: ["requests>=2.28.0"]）
+requires-python = ">=3.8"

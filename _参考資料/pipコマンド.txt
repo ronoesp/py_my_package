@@ -1,0 +1,7 @@
+【参考URL】
+Python配布パッケージをGitHubリポジトリ経由でインストールする方法（PublicとPrivate両パターン）
+https://qiita.com/hoshimado/items/40d16eed1358dbf56381
+
+【コマンド】
+pip install git+https://github.com/ユーザー名/リポジトリ名.git
+pip install git+https://github.com/ronoesp/py_my_package.git
