@@ -1,0 +1,2 @@
+Pythonで自作パッケージをつくる
+https://qiita.com/aki-1227/items/33b742677ee9d36a5631
